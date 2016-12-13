@@ -1,13 +1,11 @@
 package edu.upc.dsa;
 
-import java.util.List;
-
 /**
  * Created by pauli on 29/11/2016.
  */
 public class User {
 
-    private int idUser;
+    private int idusuario;
     private String name;
     private String nick;
     private String password;
@@ -18,12 +16,12 @@ public class User {
   //  public List<User> listUser;
 
 
-    public int getIdUser() {
-        return idUser;
+    public int getIdusuario() {
+        return idusuario;
     }
 
-    public void setIdUser(int idUser) {
-        this.idUser = idUser;
+    public void setIdusuario(int idusuario) {
+        this.idusuario = idusuario;
     }
 
     public String getName() {

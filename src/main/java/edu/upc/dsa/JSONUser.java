@@ -18,8 +18,9 @@ public class JSONUser {
     public JSONUser() {
        listUser = new ArrayList<>();
         User u1 = new User();
-        u1.setIdUser(1);
+        u1.setIdusuario(1);
         u1.setName("Antonio");
+        u1.setPassword("contraseña");
         u1.setEmail("aoller@entel.upc.edu");
         u1.setNick("TekJson");
         u1.setBattle(2);
@@ -27,7 +28,7 @@ public class JSONUser {
         listUser.add(u1);
 
         User u2 = new User();
-        u2.setIdUser(2);
+        u2.setIdusuario(2);
         u2.setName("Juan");
         u2.setEmail("juan.lopez-rubio@upc.edu");
         u2.setNick("JekJson");
@@ -37,11 +38,11 @@ public class JSONUser {
     }
 
     @GET
-    @Path("/{idUser}")
-    @Produces(MediaType.APPLICATION_JSON)
-    public User getidUser(@PathParam("idUser") Integer idUser){
+    @Path("/{idUser}/{name}")
+    @Produces(MediaType.TEXT_PLAIN)
+    public String getidUser(@PathParam("idUser") Integer idUser,@PathParam("name") String name){
 
-        return listUser.get(idUser);
+        return (listUser.get(idUser).getNick()+":" + listUser.get(idUser).getPassword());
     }
 
     @GET

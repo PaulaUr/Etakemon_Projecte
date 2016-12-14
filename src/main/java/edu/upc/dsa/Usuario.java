@@ -3,7 +3,7 @@ package edu.upc.dsa;
 /**
  * Created by pauli on 29/11/2016.
  */
-public class User {
+public class Usuario {
 
     private int idusuario;
     private String name;
@@ -13,7 +13,7 @@ public class User {
     private int battleWon;
     private int battle;
     private int experience;
-  //  public List<User> listUser;
+  //  public List<Usuario> listUsuario;
 
 
     public int getIdusuario() {

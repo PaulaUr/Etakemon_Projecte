@@ -27,7 +27,7 @@ Los etakeStops mostrarán un pequeño cuestionario y si se realiza correctamente
 **Parte Web**
 
 La página web mostrará un menú inicial.
-Dicho menú tendrá las diferentes opciones: Crear cuenta, recuperar tus datos (user o pass), loguearte, consultar el perfil, consultar el ranking, ver tus logros, etakedex, tus etakemons, entrena tus etakemons, consultar habilidades y un pequeño tutorial sobre el juego.
+Dicho menú tendrá las diferentes opciones: Crear cuenta, recuperar tus datos (usuario o pass), loguearte, consultar el perfil, consultar el ranking, ver tus logros, etakedex, tus etakemons, entrena tus etakemons, consultar habilidades y un pequeño tutorial sobre el juego.
 Los logros consisten por ejemplo en capturar X etakemons, etc.
 
 --------------------------------

@@ -24,7 +24,7 @@ public class MyResource {
         return "Got it!";
     }
 
-    @Path("User/{nick}")
+    @Path("Usuario/{nick}")
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public  String getUser (@PathParam("nick") String nick){

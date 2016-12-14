@@ -13,11 +13,11 @@ import java.util.List;
 @Path("/user")
 public class JSONUser {
 
-    protected List<User> listUser;
+    protected List<Usuario> listUsuario;
 
     public JSONUser() {
-       listUser = new ArrayList<>();
-        User u1 = new User();
+       listUsuario = new ArrayList<>();
+        Usuario u1 = new Usuario();
         u1.setIdusuario(1);
         u1.setName("Antonio");
         u1.setPassword("contraseña");
@@ -25,16 +25,16 @@ public class JSONUser {
         u1.setNick("TekJson");
         u1.setBattle(2);
         u1.setBattleWon(1);
-        listUser.add(u1);
+        listUsuario.add(u1);
 
-        User u2 = new User();
+        Usuario u2 = new Usuario();
         u2.setIdusuario(2);
         u2.setName("Juan");
         u2.setEmail("juan.lopez-rubio@upc.edu");
         u2.setNick("JekJson");
         u2.setBattle(4);
         u2.setBattleWon(2);
-        listUser.add(u2);
+        listUsuario.add(u2);
     }
 
     @GET
@@ -42,28 +42,28 @@ public class JSONUser {
     @Produces(MediaType.TEXT_PLAIN)
     public String getidUser(@PathParam("idUser") Integer idUser,@PathParam("name") String name){
 
-        return (listUser.get(idUser).getNick()+":" + listUser.get(idUser).getPassword());
+        return (listUsuario.get(idUser).getNick()+":" + listUsuario.get(idUser).getPassword());
     }
 
     @GET
     @Path("/get")
     @Produces(MediaType.APPLICATION_JSON)
-    public User getUserInJSON(){
+    public Usuario getUserInJSON(){
 
 
-      User user = new User();
-        user.setNick("JekJson");
+      Usuario usuario = new Usuario();
+        usuario.setNick("JekJson");
 
 
-        return user;
+        return usuario;
     }
 
     @POST
     @Path("/post")
     @Consumes(MediaType.APPLICATION_JSON)
-    public Response createUserInJSON(User user){
+    public Response createUserInJSON(Usuario usuario){
 
-        String result = "User guaradado: " +user;
+        String result = "Usuario guaradado: " + usuario;
         return Response.status(201).entity(result).build();
     }
 

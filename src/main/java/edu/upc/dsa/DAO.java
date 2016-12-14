@@ -1,4 +1,4 @@
-package edu.upc.dsa.dao;
+package edu.upc.dsa;
 
 import edu.upc.dsa.Usuario;
 
@@ -98,6 +98,7 @@ public abstract class DAO {
 
         System.out.println("QUERY: " + sb.toString() + "\n");
 
+
         Connection con = getConnection();
         try {
             PreparedStatement preparedStatement = con.prepareStatement(sb.toString());
@@ -107,7 +108,7 @@ public abstract class DAO {
             e.printStackTrace();
         }
     }
-    
+
 
 
   /*  public  void  select(int idusuario){}

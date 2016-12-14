@@ -3,17 +3,32 @@ package edu.upc.dsa;
 /**
  * Created by pauli on 29/11/2016.
  */
-public class Usuario {
+public class Usuario extends DAO {
 
-    private int idusuario;
-    private String name;
-    private String nick;
-    private String password;
-    private String email;
-    private int battleWon;
-    private int battle;
-    private int experience;
-  //  public List<Usuario> listUsuario;
+    public int idusuario;
+  public String name;
+  public String nick;
+  public String password;
+ public String email;
+  public int battleWon;
+  public int battle;
+  public int experience;
+
+    public Usuario() {
+    }
+
+    public Usuario(int idusuario, String name, String nick, String password, String email, int battleWon, int battle, int experience) {
+        this.idusuario = idusuario;
+        this.name = name;
+        this.nick = nick;
+        this.password = password;
+        this.email = email;
+        this.battleWon = battleWon;
+        this.battle = battle;
+        this.experience = experience;
+    }
+
+   //  public List<Usuario> listUsuario;
 
 
     public int getIdusuario() {

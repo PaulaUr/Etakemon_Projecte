@@ -1,9 +1,8 @@
 package edu.upc.dsa;
 
-import edu.upc.dsa.Usuario;
-import org.glassfish.grizzly.Connection;
-import org.glassfish.hk2.utilities.reflection.Logger;
 
+
+import org.apache.log4j.Logger;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -11,15 +10,14 @@ import java.sql.*;
 import java.util.Properties;
 
 /**
- * Created by pauli on 12/12/2016.
+ * Created by ivanm on 15/12/2016.
  */
-
 public abstract class DAO {
 
-    static final Logger logger = Logger.getLogger(DAO.class);
+    private static final Logger logger = Logger.getLogger(DAO.class);
 
-    public static Connection getConnection() {
-        Connection con = null;
+    public static java.sql.Connection getConnection() {
+        java.sql.Connection con = null;
         try {
             String host = "localhost";
             int port = 3306;
@@ -75,7 +73,7 @@ public abstract class DAO {
 
         logger.info("QUERY: " + sb.toString() + "\n");
 
-        Connection con = getConnection();
+        java.sql.Connection con = getConnection();
         try {
             PreparedStatement preparedStatement = con.prepareStatement(sb.toString());
             insertarElementos(preparedStatement);
@@ -129,7 +127,7 @@ public abstract class DAO {
     * */
     public void update(int iu) {
 
-        Connection con = getConnection();  //obtener conexión de la base de datos
+        java.sql.Connection con = getConnection();  //obtener conexión de la base de datos
         StringBuffer consulta = new StringBuffer();
         consulta.append("UPDATE ").append(this.getClass().getSimpleName()).append(" SET ");
 
@@ -166,7 +164,7 @@ public abstract class DAO {
     /*DELETE FUNCIONA*/
     //Eliminar de la BBDD
     public void delete(int iu) {
-        Connection con = getConnection();
+        java.sql.Connection con = getConnection();
         StringBuffer consulta = new StringBuffer();
         consulta.append("DELETE FROM ").append(this.getClass().getSimpleName()).append(" WHERE idusuarios =" + iu);
         logger.info("DEL Query: "+consulta.toString());
@@ -181,10 +179,10 @@ public abstract class DAO {
         }
     }
 
-    /*SELECT USUARIO OK*/
+    /*SELECT USUARIO OK*/    /*SIMPLEMENTE LOS MUESTRA POR PANTALLA*/
     public void select(int pk) {
 
-        Connection con = getConnection();
+        java.sql.Connection con = getConnection();
 
         StringBuffer consulta = new StringBuffer();
         consulta.append("SELECT * FROM ").append(this.getClass().getSimpleName()).append(" WHERE idusuario = " + pk);
@@ -216,6 +214,63 @@ public abstract class DAO {
         } catch (SQLException e) {
             logger.error("Select: "+e.getMessage());
         }
+    }
+
+
+    /*SELECCIONA DATOS USUARIO Y LOS GUARDAS */
+    public Usuario select2(int pk) {
+
+        java.sql.Connection con = getConnection();
+        Usuario u = new Usuario();
+
+        StringBuffer consulta = new StringBuffer();
+        consulta.append("SELECT * FROM ").append(this.getClass().getSimpleName()).append(" WHERE idusuario = " + pk);
+        logger.info("SELECT query: "+consulta);
+
+        Statement stmt = null;
+
+        try {
+            stmt = con.createStatement();
+            ResultSet rs = stmt.executeQuery(consulta.toString()); //Y RECOJO LOS DATOS EN rs
+            ResultSetMetaData rsmd = rs.getMetaData();
+            rs.next();
+            for (int i = 1; i < rsmd.getColumnCount() + 1; i++) { //lo ejecuto el numero de veces de columnas que tenga en la tabla
+                try {
+                    if (rsmd.getColumnLabel(i).equals("idusuario")){
+                        u.setIdusuario(rs.getInt(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("nombre")){
+                        u.setNombre(rs.getString(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("nick")){
+                        u.setNick(rs.getString(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("email")){
+                        u.setEmail(rs.getString(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("password")){
+                        u.setPassword(rs.getString(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("batganadas")){
+                        u.setBatganadas(rs.getInt(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("batjugadas")){
+                        u.setBatjugadas(rs.getInt(i));
+                    }
+                    if (rsmd.getColumnLabel(i).equals("experiencia")){
+                        u.setExperiencia(rs.getInt(i));
+                    }
+
+
+
+                } catch (Exception e) {
+                    logger.error("SELECT: " +e.getCause());
+                }
+            }
+        } catch (SQLException e) {
+            logger.error("Select: "+e.getMessage());
+        }
+        return u;
     }
 
 
@@ -260,3 +315,4 @@ public abstract class DAO {
 
 
 }
+

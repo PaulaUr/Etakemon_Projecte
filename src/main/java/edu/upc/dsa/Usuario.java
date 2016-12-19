@@ -1,35 +1,35 @@
 package edu.upc.dsa;
 
+
 /**
- * Created by pauli on 29/11/2016.
+ * Created by ivanm on 15/12/2016.
  */
-public class Usuario extends DAO {
+public class Usuario extends DAO{
 
     public int idusuario;
-  public String name;
-  public String nick;
-  public String password;
- public String email;
-  public int battleWon;
-  public int battle;
-  public int experience;
+    public String nombre;
+    public String nick;
+    public String password;
+    public String email;
+    public int batganadas;
+    public int batjugadas;
+    public int experiencia;
 
-    public Usuario() {
+
+    public  Usuario(){
+        super();
     }
+    public Usuario(int idusuario, String nombre, String nick, String password, String email, int batganadas, int batjugadas, int experiencia) {
 
-    public Usuario(int idusuario, String name, String nick, String password, String email, int battleWon, int battle, int experience) {
         this.idusuario = idusuario;
-        this.name = name;
+        this.nombre = nombre;
         this.nick = nick;
         this.password = password;
         this.email = email;
-        this.battleWon = battleWon;
-        this.battle = battle;
-        this.experience = experience;
+        this.batganadas = batganadas;
+        this.batjugadas = batjugadas;
+        this.experiencia = experiencia;
     }
-
-   //  public List<Usuario> listUsuario;
-
 
     public int getIdusuario() {
         return idusuario;
@@ -39,12 +39,12 @@ public class Usuario extends DAO {
         this.idusuario = idusuario;
     }
 
-    public String getName() {
-        return name;
+    public String getNombre() {
+        return nombre;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
     public String getNick() {
@@ -71,27 +71,27 @@ public class Usuario extends DAO {
         this.email = email;
     }
 
-    public int getBattleWon() {
-        return battleWon;
+    public int getBatganadas() {
+        return batganadas;
     }
 
-    public void setBattleWon(int battleWon) {
-        this.battleWon = battleWon;
+    public void setBatganadas(int batganadas) {
+        this.batganadas = batganadas;
     }
 
-    public int getBattle() {
-        return battle;
+    public int getBatjugadas() {
+        return batjugadas;
     }
 
-    public void setBattle(int battle) {
-        this.battle = battle;
+    public void setBatjugadas(int batjugadas) {
+        this.batjugadas = batjugadas;
     }
 
-    public int getExperience() {
-        return experience;
+    public int getExperiencia() {
+        return experiencia;
     }
 
-    public void setExperience(int experience) {
-        this.experience = experience;
+    public void setExperiencia(int experiencia) {
+        this.experiencia = experiencia;
     }
 }

@@ -13,7 +13,7 @@ import java.util.List;
 @Path("/user")
 public class JSONUser {
 
-    protected List<Usuario> listUsuario;
+    public List<Usuario> listUsuario;
 
     public JSONUser() {
        listUsuario = new ArrayList<>();

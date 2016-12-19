@@ -9,11 +9,11 @@ import javax.ws.rs.core.MediaType;
 /**
  * Root resource (exposed at "myresource" path)
  */
-@Path("myresource")
-public class MyResource {
+@Path("juego")
+public class Juego {
     private EtakemonManager etkManager;
-    public MyResource() {
-        etkManager = new EtakemonManager();
+    public Juego() {
+        etkManager = new EtakemonManagerBBDD();
     }
 
     /**
@@ -28,11 +28,11 @@ public class MyResource {
         return "Got it!";
     }
 
-    @Path("Usuario/{nick}")
+    @Path("Usuario/{idUser}")
     @GET
     @Produces(MediaType.TEXT_PLAIN)
-    public  String getUser (@PathParam("nick") String nick){
-        List<Usuario> usuarios =etkManager.getUsuarios();
+    public  String getJuego (@PathParam("idUser") String idUser){
+        List<Evento> eventos =etkManager.getGames(idUser);
     }
 
     @Path("exception")

@@ -23,7 +23,7 @@ CREATE TABLE `juego2`.`habilidades` (
   `descripcion` VARCHAR(70) NULL,
   PRIMARY KEY (`idhabilidades`));
 
-CREATE TABLE `juego2`.`usuario` (
+CREATE TABLE `juego2`.`Usuario` (
   `idusuario` INT NOT NULL AUTO_INCREMENT,
   `nombre` VARCHAR(45) NOT NULL,
   `nick` VARCHAR(45) NOT NULL,
@@ -50,7 +50,7 @@ CREATE TABLE `juego2`.`captura` (
   INDEX `idhabilidads_idx` (`idhabilidads` ASC),
   CONSTRAINT `idusuarios`
     FOREIGN KEY (`idusuarios`)
-    REFERENCES `juego2`.`usuario` (`idusuario`)
+    REFERENCES `juego2`.`Usuario` (`idusuario`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `idetakemons`
@@ -82,6 +82,6 @@ CREATE TABLE `juego2`.`objetosusuario` (
     ON UPDATE NO ACTION,
   CONSTRAINT `idusuarioss`
     FOREIGN KEY (`idusuarioss`)
-    REFERENCES `juego2`.`usuario` (`idusuario`)
+    REFERENCES `juego2`.`Usuario` (`idusuario`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);

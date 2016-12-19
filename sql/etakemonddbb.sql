@@ -2,7 +2,7 @@ DROP DATABASE IF EXISTS etakemonddbb;
 CREATE DATABASE etakemonddbb;
 USE etakemonddbb;
 
-CREATE TABLE usuario(
+CREATE TABLE Usuario(
 idusuario	INTEGER NOT NULL AUTO_INCREMENT,
 nombre		VARCHAR(40) NOT NULL,
 nick		VARCHAR(40) NOT NULL,

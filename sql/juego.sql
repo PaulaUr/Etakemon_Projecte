@@ -2,7 +2,7 @@ DROP DATABASE IF EXISTS juego;
 CREATE DATABASE juego;
 USE juego;
 
-CREATE TABLE `juego`.`usuario` (
+CREATE TABLE `juego`.`Usuario` (
   `idusuario` INT NOT NULL AUTO_INCREMENT,
   `nombre` VARCHAR(45) NOT NULL,
   `nick` VARCHAR(45) NOT NULL,
@@ -52,7 +52,7 @@ CREATE TABLE `juego`.`objetosusuario` (
     ON UPDATE NO ACTION,
   CONSTRAINT `idusuario`
     FOREIGN KEY (`idusuario`)
-    REFERENCES `juego`.`usuario` (`idusuario`)
+    REFERENCES `juego`.`Usuario` (`idusuario`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 
@@ -71,7 +71,7 @@ CREATE TABLE `juego`.`captura` (
   INDEX `idhabilidad_idx` (`idhabilidads` ASC),
   CONSTRAINT `idusuarios`
     FOREIGN KEY (`idusuarios`)
-    REFERENCES `juego`.`usuario` (`idusuario`)
+    REFERENCES `juego`.`Usuario` (`idusuario`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `idetakemons`

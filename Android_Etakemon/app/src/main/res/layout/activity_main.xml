@@ -15,7 +15,7 @@
         android:inputType="textPersonName"
         android:hint="Usuario"
         android:ems="10"
-        android:id="@+id/usuario"
+        android:id="@+id/Usuario"
         android:layout_marginTop="44dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
@@ -28,7 +28,7 @@
         android:id="@+id/contraseña"
         android:hint="Password"
         android:layout_marginTop="93dp"
-        android:layout_below="@+id/usuario"
+        android:layout_below="@+id/Usuario"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -46,11 +46,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="¿Has olvidado tu usuario?"
+        android:text="¿Has olvidado tu Usuario?"
         android:id="@+id/textView"
-        android:layout_below="@+id/usuario"
-        android:layout_alignLeft="@+id/usuario"
-        android:layout_alignStart="@+id/usuario"
+        android:layout_below="@+id/Usuario"
+        android:layout_alignLeft="@+id/Usuario"
+        android:layout_alignStart="@+id/Usuario"
         android:textSize="15dp"
         android:onClick="recuperar"/>
 

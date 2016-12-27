@@ -1,10 +1,12 @@
-package edu.upc.dsa;
+package edu.upc.dsa.entity;
 
+
+import edu.upc.dsa.dao.funcionesDAO;
 
 /**
  * Created by ivanm on 15/12/2016.
  */
-public class Usuario extends DAO{
+public class Usuario extends funcionesDAO {
 
     public int idusuario;
     public String nombre;

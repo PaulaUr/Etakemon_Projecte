@@ -1,11 +1,11 @@
-package edu.upc.dsa.clases;
+package edu.upc.dsa.entity;
 
-import edu.upc.dsa.DAO;
+import edu.upc.dsa.dao.funcionesDAO;
 
 /**
  * Created by ivanm on 15/12/2016.
  */
-public class Lugares extends DAO{
+public class Lugares extends funcionesDAO {
 
     public int idlugares;
     public String nombre;

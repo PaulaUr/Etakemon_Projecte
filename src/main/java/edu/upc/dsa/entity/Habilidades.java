@@ -1,11 +1,11 @@
-package edu.upc.dsa.clases;
+package edu.upc.dsa.entity;
 
-import edu.upc.dsa.DAO;
+import edu.upc.dsa.dao.funcionesDAO;
 
 /**
  * Created by ivanm on 15/12/2016.
  */
-public class Habilidades extends DAO{
+public class Habilidades extends funcionesDAO {
 
     public int idhabilidades;
     public String nombre;

@@ -1,4 +1,4 @@
-package edu.upc.dsa.entity;
+package edu.upc.dsa.dao;
 
 /**
  * Created by pauli on 19/12/2016.

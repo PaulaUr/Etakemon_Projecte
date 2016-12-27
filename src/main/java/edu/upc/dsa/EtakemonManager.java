@@ -1,5 +1,7 @@
 package edu.upc.dsa;
 
+import edu.upc.dsa.entity.Usuario;
+
 import java.util.ArrayList;
 
 /**

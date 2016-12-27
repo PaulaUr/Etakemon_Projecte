@@ -1,5 +1,7 @@
 package edu.upc.dsa;
 
+import edu.upc.dsa.entity.Usuario;
+
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;

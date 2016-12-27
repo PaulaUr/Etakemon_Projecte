@@ -1,7 +1,8 @@
-package edu.upc.dsa;
+package edu.upc.dsa.dao;
 
 
 
+import edu.upc.dsa.entity.Usuario;
 import org.apache.log4j.Logger;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
@@ -12,9 +13,9 @@ import java.util.Properties;
 /**
  * Created by ivanm on 15/12/2016.
  */
-public abstract class DAO {
+public abstract class funcionesDAO {
 
-    private static final Logger logger = Logger.getLogger(DAO.class);
+    private static final Logger logger = Logger.getLogger(funcionesDAO.class);
 
     public static java.sql.Connection getConnection() {
         java.sql.Connection con = null;

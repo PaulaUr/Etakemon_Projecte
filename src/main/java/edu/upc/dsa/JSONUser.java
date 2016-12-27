@@ -1,9 +1,10 @@
 package edu.upc.dsa;
 
+import edu.upc.dsa.entity.Usuario;
+
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -15,7 +16,7 @@ public class JSONUser {
 
     public List<Usuario> listUsuario;
 
-    public JSONUser() {
+  /*  public JSONUser() {
        listUsuario = new ArrayList<>();
         Usuario u1 = new Usuario();
         u1.setIdusuario(1);
@@ -35,7 +36,7 @@ public class JSONUser {
         u2.setBattle(4);
         u2.setBattleWon(2);
         listUsuario.add(u2);
-    }
+    }*/
 
     @GET
     @Path("/{idUser}/{name}")

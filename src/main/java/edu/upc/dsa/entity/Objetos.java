@@ -1,33 +1,33 @@
-package edu.upc.dsa.clases;
+package edu.upc.dsa.entity;
 
-import edu.upc.dsa.DAO;
+import edu.upc.dsa.dao.funcionesDAO;
 
 /**
  * Created by ivanm on 15/12/2016.
  */
-public class Etakemon extends DAO{
+public class Objetos extends funcionesDAO {
 
-    public int idetakemon;
+    public int idobjetos;
     public String nombre;
     public String descripcion;
 
-    public Etakemon(){ //si lo creas vacio
+    public Objetos(){
         super();
     }
 
-    public Etakemon(int idetakemon, String nombre, String descripcion) {
+    public Objetos(int idobjetos, String nombre, String descripcion) {
         super();
-        this.idetakemon = idetakemon;
+        this.idobjetos = idobjetos;
         this.nombre = nombre;
         this.descripcion = descripcion;
     }
 
-    public int getIdetakemon() {
-        return idetakemon;
+    public int getIdobjetos() {
+        return idobjetos;
     }
 
-    public void setIdetakemon(int idetakemon) {
-        this.idetakemon = idetakemon;
+    public void setIdobjetos(int idobjetos) {
+        this.idobjetos = idobjetos;
     }
 
     public String getNombre() {

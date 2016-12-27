@@ -1,13 +1,13 @@
-package edu.upc.dsa.clases;
+package edu.upc.dsa.entity;
 
-import edu.upc.dsa.DAO;
+import edu.upc.dsa.dao.funcionesDAO;
 
 import java.sql.Date;
 
 /**
  * Created by ivanm on 15/12/2016.
  */
-public class Captura extends DAO{
+public class Captura extends funcionesDAO {
 
     public int idcaptura;
     public int idusuarios;

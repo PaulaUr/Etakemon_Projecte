@@ -1,0 +1,2055 @@
+2016-12-27 20:01:38 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:04:25 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:06:38 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:08:35 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:16:22 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:40:51 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:41:18 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:18 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:47 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:48 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:48 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:48 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:48 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:48 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:49 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:49 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:49 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:49 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:50 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:44:50 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:45:14 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:45:15 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:45:15 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:45:16 INFO  Database:31 - Conexion creada 
+
+2016-12-27 20:48:28 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:03:01 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:03:02 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:03:03 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:06:17 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:07:11 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:08:29 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:21:49 INFO  Database:31 - Conexion creada 
+
+2016-12-27 21:44:11 DEBUG HikariConfig:837 - HikariCP pool HikariPool-0 configuration:
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - allowPoolSuspension.............false
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - autoCommit......................true
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - catalog.........................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - connectionCustomizer............com.zaxxer.hikari.AbstractHikariConfig$1@a2a7edf
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - connectionCustomizerClassName...
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - connectionInitSql...............
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - connectionTestQuery.............
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - connectionTimeout...............30000
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - dataSource......................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - dataSourceClassName.............com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - dataSourceJNDI..................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - dataSourceProperties............{jdbcCompliantTruncation=false, user=root, password=<masked>, databaseName=juego2}
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - driverClassName.................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - healthCheckProperties...........{}
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - healthCheckRegistry.............
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - idleTimeout.....................600000
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - initializationFailFast..........true
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - isolateInternalQueries..........false
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - jdbc4ConnectionTest.............false
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - jdbcUrl.........................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - leakDetectionThreshold..........0
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - maxLifetime.....................1800000
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - maximumPoolSize.................10
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - metricRegistry..................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - minimumIdle.....................10
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - password........................<masked>
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - poolName........................HikariPool-0
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - readOnly........................false
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - registerMbeans..................false
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - threadFactory...................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - transactionIsolation............
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - username........................
+2016-12-27 21:44:11 DEBUG HikariConfig:848 - validationTimeout...............5000
+2016-12-27 21:44:11 INFO  HikariDataSource:79 - HikariCP pool HikariPool-0 is starting.
+2016-12-27 21:44:11 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'd8dd254fcc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:11 DEBUG HikariPool:588 - After fill pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:44:41 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:44:41 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:44:53 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f1c9d942cc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:54 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f241b0f6cc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:55 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f2bdf0d8cc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:55 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f2e791e1cc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:55 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f30ef4ffcc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:55 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f33054c3cc7511e6ab5c54ab3a383164'
+2016-12-27 21:44:56 ERROR UsuarioDAOImpl:53 - java.sql.SQLException: Invalid value for getInt() - 'f34c9872cc7511e6ab5c54ab3a383164'
+2016-12-27 21:45:11 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:45:11 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:45:41 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:45:41 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:46:11 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:46:11 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:46:41 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:46:41 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:47:11 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:47:11 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:47:41 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:47:41 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:48:11 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 21:48:11 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:11:54 DEBUG HikariConfig:837 - HikariCP pool HikariPool-0 configuration:
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - allowPoolSuspension.............false
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - autoCommit......................true
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - catalog.........................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - connectionCustomizer............com.zaxxer.hikari.AbstractHikariConfig$1@4cc7d11b
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - connectionCustomizerClassName...
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - connectionInitSql...............
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - connectionTestQuery.............
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - connectionTimeout...............30000
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - dataSource......................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - dataSourceClassName.............com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - dataSourceJNDI..................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - dataSourceProperties............{jdbcCompliantTruncation=false, user=root, password=<masked>, databaseName=juego2}
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - driverClassName.................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - healthCheckProperties...........{}
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - healthCheckRegistry.............
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - idleTimeout.....................600000
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - initializationFailFast..........true
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - isolateInternalQueries..........false
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - jdbc4ConnectionTest.............false
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - jdbcUrl.........................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - leakDetectionThreshold..........0
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - maxLifetime.....................1800000
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - maximumPoolSize.................10
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - metricRegistry..................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - minimumIdle.....................10
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - password........................<masked>
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - poolName........................HikariPool-0
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - readOnly........................false
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - registerMbeans..................false
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - threadFactory...................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - transactionIsolation............
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - username........................
+2016-12-27 22:11:54 DEBUG HikariConfig:848 - validationTimeout...............5000
+2016-12-27 22:11:54 INFO  HikariDataSource:79 - HikariCP pool HikariPool-0 is starting.
+2016-12-27 22:11:54 ERROR UsuarioDAOImpl:55 - java.sql.SQLException: Invalid value for getInt() - 'b8343f5ecc7911e6ab5c54ab3a383164'
+2016-12-27 22:11:55 DEBUG HikariPool:588 - After fill pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:12:24 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:12:24 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:12:54 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:12:54 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:13:24 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:13:24 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:13:54 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:13:54 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:14:24 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:14:24 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:14:54 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:14:54 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:15:24 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:15:24 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:15:54 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:15:54 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:16:10 DEBUG HikariConfig:837 - HikariCP pool HikariPool-0 configuration:
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - allowPoolSuspension.............false
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - autoCommit......................true
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - catalog.........................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - connectionCustomizer............com.zaxxer.hikari.AbstractHikariConfig$1@4849879e
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - connectionCustomizerClassName...
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - connectionInitSql...............
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - connectionTestQuery.............
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - connectionTimeout...............30000
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - dataSource......................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - dataSourceClassName.............com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - dataSourceJNDI..................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - dataSourceProperties............{jdbcCompliantTruncation=false, user=root, password=<masked>, databaseName=juego2}
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - driverClassName.................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - healthCheckProperties...........{}
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - healthCheckRegistry.............
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - idleTimeout.....................600000
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - initializationFailFast..........true
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - isolateInternalQueries..........false
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - jdbc4ConnectionTest.............false
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - jdbcUrl.........................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - leakDetectionThreshold..........0
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - maxLifetime.....................1800000
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - maximumPoolSize.................10
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - metricRegistry..................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - minimumIdle.....................10
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - password........................<masked>
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - poolName........................HikariPool-0
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - readOnly........................false
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - registerMbeans..................false
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - threadFactory...................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - transactionIsolation............
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - username........................
+2016-12-27 22:16:10 DEBUG HikariConfig:848 - validationTimeout...............5000
+2016-12-27 22:16:10 INFO  HikariDataSource:79 - HikariCP pool HikariPool-0 is starting.
+2016-12-27 22:16:11 ERROR UsuarioDAOImpl:55 - java.sql.SQLException: Invalid value for getInt() - '5114bec4cc7a11e6ab5c54ab3a383164'
+2016-12-27 22:16:11 DEBUG HikariPool:588 - After fill pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:16:41 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:16:41 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:17:11 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:17:11 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-27 22:31:19 DEBUG HikariConfig:837 - HikariCP pool HikariPool-0 configuration:
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - allowPoolSuspension.............false
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - autoCommit......................true
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - catalog.........................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - connectionCustomizer............com.zaxxer.hikari.AbstractHikariConfig$1@19486368
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - connectionCustomizerClassName...
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - connectionInitSql...............
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - connectionTestQuery.............
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - connectionTimeout...............30000
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - dataSource......................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - dataSourceClassName.............com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - dataSourceJNDI..................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - dataSourceProperties............{jdbcCompliantTruncation=false, user=root, password=<masked>, databaseName=juego2}
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - driverClassName.................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - healthCheckProperties...........{}
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - healthCheckRegistry.............
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - idleTimeout.....................600000
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - initializationFailFast..........true
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - isolateInternalQueries..........false
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - jdbc4ConnectionTest.............false
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - jdbcUrl.........................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - leakDetectionThreshold..........0
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - maxLifetime.....................1800000
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - maximumPoolSize.................10
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - metricRegistry..................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - minimumIdle.....................10
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - password........................<masked>
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - poolName........................HikariPool-0
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - readOnly........................false
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - registerMbeans..................false
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - threadFactory...................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - transactionIsolation............
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - username........................
+2016-12-27 22:31:19 DEBUG HikariConfig:848 - validationTimeout...............5000
+2016-12-27 22:31:19 INFO  HikariDataSource:79 - HikariCP pool HikariPool-0 is starting.
+2016-12-27 22:31:20 ERROR UsuarioDAOImpl:55 - java.sql.SQLException: Invalid value for getInt() - '6ef58b83cc7c11e6ab5c54ab3a383164'
+2016-12-27 22:31:20 DEBUG HikariPool:588 - After fill pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-31 01:02:51 DEBUG HikariConfig:837 - HikariCP pool HikariPool-0 configuration:
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - allowPoolSuspension.............false
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - autoCommit......................true
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - catalog.........................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - connectionCustomizer............com.zaxxer.hikari.AbstractHikariConfig$1@5618857c
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - connectionCustomizerClassName...
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - connectionInitSql...............
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - connectionTestQuery.............
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - connectionTimeout...............30000
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - dataSource......................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - dataSourceClassName.............com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - dataSourceJNDI..................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - dataSourceProperties............{jdbcCompliantTruncation=false, user=root, password=<masked>, databaseName=juego2}
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - driverClassName.................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - healthCheckProperties...........{}
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - healthCheckRegistry.............
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - idleTimeout.....................600000
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - initializationFailFast..........true
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - isolateInternalQueries..........false
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - jdbc4ConnectionTest.............false
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - jdbcUrl.........................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - leakDetectionThreshold..........0
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - maxLifetime.....................1800000
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - maximumPoolSize.................10
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - metricRegistry..................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - minimumIdle.....................10
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - password........................<masked>
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - poolName........................HikariPool-0
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - readOnly........................false
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - registerMbeans..................false
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - threadFactory...................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - transactionIsolation............
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - username........................
+2016-12-31 01:02:51 DEBUG HikariConfig:848 - validationTimeout...............5000
+2016-12-31 01:02:51 INFO  HikariDataSource:79 - HikariCP pool HikariPool-0 is starting.
+2016-12-31 01:02:52 ERROR UsuarioDAOImpl:55 - java.sql.SQLException: Invalid value for getInt() - '3e3f2829ceed11e6ab5c54ab3a383164'
+2016-12-31 01:02:52 DEBUG HikariPool:588 - After fill pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-31 01:03:22 DEBUG HikariPool:588 - Before cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2016-12-31 01:03:22 DEBUG HikariPool:588 - After cleanup pool stats HikariPool-0 (total=10, inUse=0, avail=10, waiting=0)
+2017-01-16 21:31:37 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 21:31:37 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 4
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 21:31:37 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:47:21 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:47:21 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:50 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:50 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 ERROR DAO:211 - SELECT: null
+2017-01-16 22:50:51 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:52:01 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:52:01 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:52:01 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:54:04 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:54:04 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:56:41 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:56:41 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 INFO  DAO:34 - Conexion creada 
+
+2017-01-16 22:59:05 INFO  DAO:189 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 22:59:05 ERROR DAO:211 - SELECT: null
+2017-01-16 23:02:40 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:02:40 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:02:40 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:02:40 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:02:40 INFO  DAO:190 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 3
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:02:40 ERROR DAO:212 - SELECT: null
+2017-01-16 23:04:26 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:26 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:26 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:28 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:28 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:28 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:28 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:28 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:28 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:28 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:28 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:28 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:29 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:29 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:29 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:29 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:29 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:29 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:29 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:29 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:29 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:04:29 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:04:29 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:04:29 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:05:43 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:05:43 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:05:43 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-16 23:11:18 INFO  DAO:35 - Conexion creada 
+
+2017-01-16 23:11:18 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
+2017-01-16 23:11:18 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist

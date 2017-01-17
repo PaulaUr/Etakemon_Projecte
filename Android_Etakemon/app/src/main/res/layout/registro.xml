@@ -33,24 +33,12 @@
         android:layout_height="wrap_content"
         android:inputType="textPassword"
         android:ems="10"
-        android:id="@+id/editText"
+        android:id="@+id/constraseña"
         android:hint="Password"
         android:layout_below="@+id/editUsuario"
         android:layout_alignLeft="@+id/editUsuario"
         android:layout_alignStart="@+id/editUsuario"
         android:layout_marginTop="48dp" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:ems="10"
-        android:id="@+id/editText2"
-        android:hint="EMAIL"
-        android:layout_below="@+id/editText"
-        android:layout_alignLeft="@+id/editText"
-        android:layout_alignStart="@+id/editText"
-        android:layout_marginTop="49dp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -63,5 +51,17 @@
         android:layout_marginBottom="35dp"
         android:layout_alignRight="@+id/editText2"
         android:layout_alignEnd="@+id/editText2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText2"
+        android:hint="EMAIL"
+        android:layout_above="@+id/editUsuario"
+        android:layout_alignLeft="@+id/editNombre"
+        android:layout_alignStart="@+id/editNombre"
+        android:layout_marginBottom="32dp" />
 
 </RelativeLayout>

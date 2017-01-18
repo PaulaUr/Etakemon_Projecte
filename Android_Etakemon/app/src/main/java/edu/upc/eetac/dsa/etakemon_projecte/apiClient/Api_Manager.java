@@ -32,7 +32,7 @@ public class Api_Manager {
     public static StringEntity getObjectAsStringEntity(Object object){
         StringEntity entity = null;
         try{
-            entity = new StringEntity(new Gson().toJson(object));
+            entity = new StringEntity(new Gson().toJson(object)); //convert JavaObject to Json and assign to a String
 
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();

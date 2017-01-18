@@ -3,6 +3,10 @@
     package="edu.upc.eetac.dsa.etakemon_projecte">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true"/>
 
 
     <application
@@ -19,7 +23,16 @@
             </intent-filter>
         </activity>
         <activity android:name=".login"></activity>
-        <activity android:name=".RecuperaRegistro"></activity>
+        <activity android:name=".registro"></activity>
+        <activity android:name=".Juego"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB77AEHuD8FHfkgrUgze8Hmjr6iox80hE4"/>
+
     </application>
 
 </manifest>

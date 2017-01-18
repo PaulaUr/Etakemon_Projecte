@@ -4,7 +4,7 @@ package edu.upc.eetac.dsa.etakemon_projecte.estructura;
  * Created by pauli on 16/01/2017.
  */
 
-public class Usuario {
+public class Usuario extends DAO{
 
     private String nick;
     private String nombre;

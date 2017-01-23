@@ -1,0 +1,80 @@
+2017-01-18 12:20:37 INFO  DAO:53 - idUsuario
+2017-01-18 12:20:43 INFO  DAO:53 - nombre
+2017-01-18 12:20:45 INFO  DAO:53 - nick
+2017-01-18 12:20:46 INFO  DAO:53 - password
+2017-01-18 12:20:48 INFO  DAO:53 - email
+2017-01-18 12:20:48 INFO  DAO:53 - batganadas
+2017-01-18 12:20:48 INFO  DAO:53 - batjugadas
+2017-01-18 12:20:48 INFO  DAO:53 - experiencia
+2017-01-18 12:20:48 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 12:23:07 INFO  DAO:53 - idUsuario
+2017-01-18 12:23:07 INFO  DAO:53 - nombre
+2017-01-18 12:23:07 INFO  DAO:53 - nick
+2017-01-18 12:23:07 INFO  DAO:53 - password
+2017-01-18 12:23:07 INFO  DAO:53 - email
+2017-01-18 12:23:07 INFO  DAO:53 - batganadas
+2017-01-18 12:23:07 INFO  DAO:53 - batjugadas
+2017-01-18 12:23:07 INFO  DAO:53 - experiencia
+2017-01-18 12:23:07 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 12:30:19 INFO  DAO:53 - idUsuario
+2017-01-18 12:30:33 INFO  DAO:53 - nombre
+2017-01-18 12:30:35 INFO  DAO:53 - nick
+2017-01-18 12:30:36 INFO  DAO:53 - password
+2017-01-18 12:30:39 INFO  DAO:53 - email
+2017-01-18 12:30:39 INFO  DAO:53 - batganadas
+2017-01-18 12:30:43 INFO  DAO:53 - batjugadas
+2017-01-18 12:30:45 INFO  DAO:53 - experiencia
+2017-01-18 12:30:47 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:24:59 INFO  DAO:53 - idUsuario
+2017-01-19 17:24:59 INFO  DAO:53 - nombre
+2017-01-19 17:24:59 INFO  DAO:53 - nick
+2017-01-19 17:24:59 INFO  DAO:53 - password
+2017-01-19 17:24:59 INFO  DAO:53 - email
+2017-01-19 17:24:59 INFO  DAO:53 - batganadas
+2017-01-19 17:24:59 INFO  DAO:53 - batjugadas
+2017-01-19 17:24:59 INFO  DAO:53 - experiencia
+2017-01-19 17:24:59 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:30:28 INFO  DAO:53 - idUsuario
+2017-01-19 17:30:28 INFO  DAO:53 - nombre
+2017-01-19 17:30:28 INFO  DAO:53 - nick
+2017-01-19 17:30:28 INFO  DAO:53 - password
+2017-01-19 17:30:28 INFO  DAO:53 - email
+2017-01-19 17:30:28 INFO  DAO:53 - batganadas
+2017-01-19 17:30:28 INFO  DAO:53 - batjugadas
+2017-01-19 17:30:28 INFO  DAO:53 - experiencia
+2017-01-19 17:30:28 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:36:23 INFO  DAO:53 - idUsuario
+2017-01-19 17:36:23 INFO  DAO:53 - nombre
+2017-01-19 17:36:23 INFO  DAO:53 - nick
+2017-01-19 17:36:23 INFO  DAO:53 - password
+2017-01-19 17:36:23 INFO  DAO:53 - email
+2017-01-19 17:36:23 INFO  DAO:53 - batganadas
+2017-01-19 17:36:23 INFO  DAO:53 - batjugadas
+2017-01-19 17:36:23 INFO  DAO:53 - experiencia
+2017-01-19 17:36:23 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:42:28 INFO  DAO:53 - idUsuario
+2017-01-19 17:42:28 INFO  DAO:53 - nombre
+2017-01-19 17:42:28 INFO  DAO:53 - nick
+2017-01-19 17:42:28 INFO  DAO:53 - password
+2017-01-19 17:42:28 INFO  DAO:53 - email
+2017-01-19 17:42:28 INFO  DAO:53 - batganadas
+2017-01-19 17:42:28 INFO  DAO:53 - batjugadas
+2017-01-19 17:42:28 INFO  DAO:53 - experiencia
+2017-01-19 17:42:28 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:44:03 INFO  DAO:53 - idUsuario
+2017-01-19 17:44:03 INFO  DAO:53 - nombre
+2017-01-19 17:44:03 INFO  DAO:53 - nick
+2017-01-19 17:44:03 INFO  DAO:53 - password
+2017-01-19 17:44:03 INFO  DAO:53 - email
+2017-01-19 17:44:03 INFO  DAO:53 - batganadas
+2017-01-19 17:44:03 INFO  DAO:53 - batjugadas
+2017-01-19 17:44:03 INFO  DAO:53 - experiencia
+2017-01-19 17:44:03 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+

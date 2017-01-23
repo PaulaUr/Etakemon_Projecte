@@ -2053,3 +2053,910 @@
 
 2017-01-16 23:11:18 INFO  DAO:190 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 3
 2017-01-16 23:11:18 ERROR DAO:216 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-18 00:17:00 INFO  DAO:53 - idUsuario
+2017-01-18 00:17:00 INFO  DAO:53 - nombre
+2017-01-18 00:17:00 INFO  DAO:53 - nick
+2017-01-18 00:17:00 INFO  DAO:53 - password
+2017-01-18 00:17:00 INFO  DAO:53 - email
+2017-01-18 00:17:00 INFO  DAO:53 - batganadas
+2017-01-18 00:17:00 INFO  DAO:53 - batjugadas
+2017-01-18 00:17:00 INFO  DAO:53 - experiencia
+2017-01-18 00:17:00 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:17:00 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:20:13 INFO  DAO:53 - idUsuario
+2017-01-18 00:20:13 INFO  DAO:53 - nombre
+2017-01-18 00:20:13 INFO  DAO:53 - nick
+2017-01-18 00:20:13 INFO  DAO:53 - password
+2017-01-18 00:20:13 INFO  DAO:53 - email
+2017-01-18 00:20:13 INFO  DAO:53 - batganadas
+2017-01-18 00:20:13 INFO  DAO:53 - batjugadas
+2017-01-18 00:20:13 INFO  DAO:53 - experiencia
+2017-01-18 00:20:13 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:20:13 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:27:05 INFO  DAO:53 - idUsuario
+2017-01-18 00:27:05 INFO  DAO:53 - nombre
+2017-01-18 00:27:05 INFO  DAO:53 - nick
+2017-01-18 00:27:05 INFO  DAO:53 - password
+2017-01-18 00:27:05 INFO  DAO:53 - email
+2017-01-18 00:27:05 INFO  DAO:53 - batganadas
+2017-01-18 00:27:05 INFO  DAO:53 - batjugadas
+2017-01-18 00:27:05 INFO  DAO:53 - experiencia
+2017-01-18 00:27:05 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:27:05 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:36:01 INFO  DAO:53 - idUsuario
+2017-01-18 00:36:01 INFO  DAO:53 - nombre
+2017-01-18 00:36:01 INFO  DAO:53 - nick
+2017-01-18 00:36:01 INFO  DAO:53 - password
+2017-01-18 00:36:01 INFO  DAO:53 - email
+2017-01-18 00:36:01 INFO  DAO:53 - batganadas
+2017-01-18 00:36:01 INFO  DAO:53 - batjugadas
+2017-01-18 00:36:01 INFO  DAO:53 - experiencia
+2017-01-18 00:36:01 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:36:01 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:36:39 INFO  DAO:53 - idUsuario
+2017-01-18 00:36:39 INFO  DAO:53 - nombre
+2017-01-18 00:36:39 INFO  DAO:53 - nick
+2017-01-18 00:36:39 INFO  DAO:53 - password
+2017-01-18 00:36:39 INFO  DAO:53 - email
+2017-01-18 00:36:39 INFO  DAO:53 - batganadas
+2017-01-18 00:36:39 INFO  DAO:53 - batjugadas
+2017-01-18 00:36:39 INFO  DAO:53 - experiencia
+2017-01-18 00:36:39 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:36:39 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:39:22 INFO  DAO:53 - idUsuario
+2017-01-18 00:39:22 INFO  DAO:53 - nombre
+2017-01-18 00:39:22 INFO  DAO:53 - nick
+2017-01-18 00:39:22 INFO  DAO:53 - password
+2017-01-18 00:39:22 INFO  DAO:53 - email
+2017-01-18 00:39:22 INFO  DAO:53 - batganadas
+2017-01-18 00:39:22 INFO  DAO:53 - batjugadas
+2017-01-18 00:39:22 INFO  DAO:53 - experiencia
+2017-01-18 00:39:22 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:39:22 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:42:16 INFO  DAO:53 - idUsuario
+2017-01-18 00:42:16 INFO  DAO:53 - nombre
+2017-01-18 00:42:16 INFO  DAO:53 - nick
+2017-01-18 00:42:16 INFO  DAO:53 - password
+2017-01-18 00:42:16 INFO  DAO:53 - email
+2017-01-18 00:42:16 INFO  DAO:53 - batganadas
+2017-01-18 00:42:16 INFO  DAO:53 - batjugadas
+2017-01-18 00:42:16 INFO  DAO:53 - experiencia
+2017-01-18 00:42:16 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:42:16 INFO  DAO:35 - Conexion creada 
+
+2017-01-18 00:46:04 INFO  DAO:53 - idUsuario
+2017-01-18 00:46:04 INFO  DAO:53 - nombre
+2017-01-18 00:46:04 INFO  DAO:53 - nick
+2017-01-18 00:46:04 INFO  DAO:53 - password
+2017-01-18 00:46:04 INFO  DAO:53 - email
+2017-01-18 00:46:04 INFO  DAO:53 - batganadas
+2017-01-18 00:46:04 INFO  DAO:53 - batjugadas
+2017-01-18 00:46:04 INFO  DAO:53 - experiencia
+2017-01-18 00:46:04 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-18 00:46:04 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 17:54:09 INFO  DAO:53 - idUsuario
+2017-01-19 17:54:09 INFO  DAO:53 - nombre
+2017-01-19 17:54:09 INFO  DAO:53 - nick
+2017-01-19 17:54:09 INFO  DAO:53 - password
+2017-01-19 17:54:09 INFO  DAO:53 - email
+2017-01-19 17:54:09 INFO  DAO:53 - batganadas
+2017-01-19 17:54:09 INFO  DAO:53 - batjugadas
+2017-01-19 17:54:09 INFO  DAO:53 - experiencia
+2017-01-19 17:54:09 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:54:09 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon','jordi',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon','jordi','jordi@gmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon','jordi','jordi@gmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon','jordi','jordi@gmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-19 17:54:09 INFO  DAO:97 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon','jordi','jordi@gmail.com','0','0','0') 
+2017-01-19 17:54:09 INFO  DAO:82 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Jordi','catetakemon','jordi','jordi@gmail.com','0','0','0') 
+2017-01-19 17:56:05 INFO  DAO:53 - idUsuario
+2017-01-19 17:56:05 INFO  DAO:53 - nombre
+2017-01-19 17:56:05 INFO  DAO:53 - nick
+2017-01-19 17:56:05 INFO  DAO:53 - password
+2017-01-19 17:56:05 INFO  DAO:53 - email
+2017-01-19 17:56:05 INFO  DAO:53 - batganadas
+2017-01-19 17:56:05 INFO  DAO:53 - batjugadas
+2017-01-19 17:56:05 INFO  DAO:53 - experiencia
+2017-01-19 17:56:05 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:56:05 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 17:59:41 INFO  DAO:53 - idUsuario
+2017-01-19 17:59:41 INFO  DAO:53 - nombre
+2017-01-19 17:59:41 INFO  DAO:53 - nick
+2017-01-19 17:59:41 INFO  DAO:53 - password
+2017-01-19 17:59:41 INFO  DAO:53 - email
+2017-01-19 17:59:41 INFO  DAO:53 - batganadas
+2017-01-19 17:59:41 INFO  DAO:53 - batjugadas
+2017-01-19 17:59:41 INFO  DAO:53 - experiencia
+2017-01-19 17:59:41 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 17:59:41 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 18:01:43 INFO  DAO:53 - idUsuario
+2017-01-19 18:01:43 INFO  DAO:53 - nombre
+2017-01-19 18:01:43 INFO  DAO:53 - nick
+2017-01-19 18:01:43 INFO  DAO:53 - password
+2017-01-19 18:01:43 INFO  DAO:53 - email
+2017-01-19 18:01:43 INFO  DAO:53 - batganadas
+2017-01-19 18:01:43 INFO  DAO:53 - batjugadas
+2017-01-19 18:01:43 INFO  DAO:53 - experiencia
+2017-01-19 18:01:43 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 18:04:52 INFO  DAO:53 - idUsuario
+2017-01-19 18:04:52 INFO  DAO:53 - nombre
+2017-01-19 18:04:52 INFO  DAO:53 - nick
+2017-01-19 18:04:52 INFO  DAO:53 - password
+2017-01-19 18:04:52 INFO  DAO:53 - email
+2017-01-19 18:04:52 INFO  DAO:53 - batganadas
+2017-01-19 18:04:52 INFO  DAO:53 - batjugadas
+2017-01-19 18:04:52 INFO  DAO:53 - experiencia
+2017-01-19 18:04:52 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 18:04:52 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 18:05:19 INFO  DAO:53 - idUsuario
+2017-01-19 18:05:19 INFO  DAO:53 - nombre
+2017-01-19 18:05:19 INFO  DAO:53 - nick
+2017-01-19 18:05:19 INFO  DAO:53 - password
+2017-01-19 18:05:19 INFO  DAO:53 - email
+2017-01-19 18:05:19 INFO  DAO:53 - batganadas
+2017-01-19 18:05:19 INFO  DAO:53 - batjugadas
+2017-01-19 18:05:19 INFO  DAO:53 - experiencia
+2017-01-19 18:05:19 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 18:05:20 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 18:06:21 INFO  DAO:53 - idUsuario
+2017-01-19 18:06:21 INFO  DAO:53 - nombre
+2017-01-19 18:06:21 INFO  DAO:53 - nick
+2017-01-19 18:06:21 INFO  DAO:53 - password
+2017-01-19 18:06:21 INFO  DAO:53 - email
+2017-01-19 18:06:21 INFO  DAO:53 - batganadas
+2017-01-19 18:06:21 INFO  DAO:53 - batjugadas
+2017-01-19 18:06:21 INFO  DAO:53 - experiencia
+2017-01-19 18:06:21 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 18:06:21 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 18:39:37 INFO  DAO:53 - idUsuario
+2017-01-19 18:39:37 INFO  DAO:53 - nombre
+2017-01-19 18:39:37 INFO  DAO:53 - nick
+2017-01-19 18:39:37 INFO  DAO:53 - password
+2017-01-19 18:39:37 INFO  DAO:53 - email
+2017-01-19 18:39:37 INFO  DAO:53 - batganadas
+2017-01-19 18:39:37 INFO  DAO:53 - batjugadas
+2017-01-19 18:39:37 INFO  DAO:53 - experiencia
+2017-01-19 18:39:37 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 18:39:37 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 18:40:22 INFO  DAO:53 - idUsuario
+2017-01-19 18:40:22 INFO  DAO:53 - nombre
+2017-01-19 18:40:22 INFO  DAO:53 - nick
+2017-01-19 18:40:22 INFO  DAO:53 - password
+2017-01-19 18:40:22 INFO  DAO:53 - email
+2017-01-19 18:40:22 INFO  DAO:53 - batganadas
+2017-01-19 18:40:22 INFO  DAO:53 - batjugadas
+2017-01-19 18:40:22 INFO  DAO:53 - experiencia
+2017-01-19 18:40:22 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 18:40:22 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 18:42:24 INFO  DAO:53 - idUsuario
+2017-01-19 18:42:24 INFO  DAO:53 - nombre
+2017-01-19 18:42:24 INFO  DAO:53 - nick
+2017-01-19 18:42:24 INFO  DAO:53 - password
+2017-01-19 18:42:24 INFO  DAO:53 - email
+2017-01-19 18:42:24 INFO  DAO:53 - batganadas
+2017-01-19 18:42:24 INFO  DAO:53 - batjugadas
+2017-01-19 18:42:24 INFO  DAO:53 - experiencia
+2017-01-19 18:42:24 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 19:41:25 INFO  DAO:53 - idUsuario
+2017-01-19 19:41:25 INFO  DAO:53 - nombre
+2017-01-19 19:41:25 INFO  DAO:53 - nick
+2017-01-19 19:41:25 INFO  DAO:53 - password
+2017-01-19 19:41:25 INFO  DAO:53 - email
+2017-01-19 19:41:25 INFO  DAO:53 - batganadas
+2017-01-19 19:41:25 INFO  DAO:53 - batjugadas
+2017-01-19 19:41:25 INFO  DAO:53 - experiencia
+2017-01-19 19:41:25 INFO  DAO:76 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 19:41:25 INFO  DAO:35 - Conexion creada 
+
+2017-01-19 20:48:16 INFO  DAO:37 - Conexion creada 
+
+2017-01-19 20:48:16 INFO  DAO:141 - idUsuario
+2017-01-19 20:48:16 INFO  DAO:141 - nombre
+2017-01-19 20:48:16 INFO  DAO:141 - nick
+2017-01-19 20:48:16 INFO  DAO:141 - password
+2017-01-19 20:48:16 INFO  DAO:141 - email
+2017-01-19 20:48:16 INFO  DAO:141 - batganadas
+2017-01-19 20:48:16 INFO  DAO:141 - batjugadas
+2017-01-19 20:48:16 INFO  DAO:141 - experiencia
+2017-01-19 20:48:16 INFO  DAO:164 - QUERY: INSERT INTO Usuario(nick, password)(idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 20:49:47 INFO  DAO:37 - Conexion creada 
+
+2017-01-19 20:49:47 INFO  DAO:141 - idUsuario
+2017-01-19 20:49:47 INFO  DAO:141 - nombre
+2017-01-19 20:49:47 INFO  DAO:141 - nick
+2017-01-19 20:49:47 INFO  DAO:141 - password
+2017-01-19 20:49:47 INFO  DAO:141 - email
+2017-01-19 20:49:47 INFO  DAO:141 - batganadas
+2017-01-19 20:49:47 INFO  DAO:141 - batjugadas
+2017-01-19 20:49:47 INFO  DAO:141 - experiencia
+2017-01-19 20:49:47 INFO  DAO:164 - QUERY: INSERT INTO Usuario(nick, password)(idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 20:53:37 INFO  DAO:140 - idUsuario
+2017-01-19 20:53:37 INFO  DAO:140 - nombre
+2017-01-19 20:53:37 INFO  DAO:140 - nick
+2017-01-19 20:53:37 INFO  DAO:140 - password
+2017-01-19 20:53:37 INFO  DAO:140 - email
+2017-01-19 20:53:37 INFO  DAO:140 - batganadas
+2017-01-19 20:53:37 INFO  DAO:140 - batjugadas
+2017-01-19 20:53:37 INFO  DAO:140 - experiencia
+2017-01-19 20:53:37 INFO  DAO:163 - QUERY: INSERT INTO Usuario(nick, password)(idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 20:53:38 INFO  DAO:37 - Conexion creada 
+
+2017-01-19 20:54:02 INFO  DAO:140 - idUsuario
+2017-01-19 20:54:02 INFO  DAO:140 - nombre
+2017-01-19 20:54:02 INFO  DAO:140 - nick
+2017-01-19 20:54:02 INFO  DAO:140 - password
+2017-01-19 20:54:02 INFO  DAO:140 - email
+2017-01-19 20:54:02 INFO  DAO:140 - batganadas
+2017-01-19 20:54:02 INFO  DAO:140 - batjugadas
+2017-01-19 20:54:02 INFO  DAO:140 - experiencia
+2017-01-19 20:54:02 INFO  DAO:163 - QUERY: INSERT INTO Usuario(nick, password)(idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-19 20:54:03 INFO  DAO:37 - Conexion creada 
+
+2017-01-19 20:56:47 INFO  DAO:140 - idUsuario
+2017-01-19 20:56:51 INFO  DAO:140 - nombre
+2017-01-19 20:56:53 INFO  DAO:140 - nick
+2017-01-19 20:57:26 INFO  DAO:140 - password
+2017-01-19 20:57:26 INFO  DAO:140 - email
+2017-01-19 20:57:26 INFO  DAO:140 - batganadas
+2017-01-19 20:57:26 INFO  DAO:140 - batjugadas
+2017-01-19 20:57:26 INFO  DAO:140 - experiencia
+2017-01-19 20:57:26 INFO  DAO:163 - QUERY: INSERT INTO Usuario(nick, password)(idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 10:26:21 INFO  DAO:140 - nick
+2017-01-20 10:26:27 INFO  DAO:140 - password
+2017-01-20 10:26:28 INFO  DAO:140 - batganadas
+2017-01-20 10:26:29 INFO  DAO:140 - batjugadas
+2017-01-20 10:26:30 INFO  DAO:140 - experiencia
+2017-01-20 10:26:44 INFO  DAO:163 - QUERY: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?) 
+
+2017-01-20 10:26:44 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 10:26:44 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:26:44 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:26:44 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:26:44 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0',** NOT SPECIFIED **) 
+2017-01-20 10:26:44 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0','0') 
+2017-01-20 10:26:44 INFO  DAO:170 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario(nick, password)(nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0','0') 
+2017-01-20 10:26:44 ERROR DAO:173 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0' at line 1
+2017-01-20 10:27:56 INFO  DAO:55 - nick
+2017-01-20 10:27:56 INFO  DAO:55 - password
+2017-01-20 10:27:56 INFO  DAO:55 - batganadas
+2017-01-20 10:27:56 INFO  DAO:55 - batjugadas
+2017-01-20 10:27:56 INFO  DAO:55 - experiencia
+2017-01-20 10:27:56 INFO  DAO:78 - QUERY: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?) 
+
+2017-01-20 10:27:56 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 10:27:56 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:27:56 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:27:56 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:27:56 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0',** NOT SPECIFIED **) 
+2017-01-20 10:27:56 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0','0') 
+2017-01-20 10:27:56 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@1677d1: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0','0') 
+2017-01-20 10:27:56 ERROR DAO:87 - Field 'nombre' doesn't have a default value
+2017-01-20 10:29:11 INFO  DAO:55 - nick
+2017-01-20 10:29:12 INFO  DAO:55 - password
+2017-01-20 10:29:12 INFO  DAO:55 - batganadas
+2017-01-20 10:29:12 INFO  DAO:55 - batjugadas
+2017-01-20 10:29:12 INFO  DAO:55 - experiencia
+2017-01-20 10:29:12 INFO  DAO:78 - QUERY: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?) 
+
+2017-01-20 10:29:12 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 10:29:12 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:29:12 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:29:12 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 10:29:12 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0',** NOT SPECIFIED **) 
+2017-01-20 10:29:12 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0','0') 
+2017-01-20 10:29:12 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@2669b199: INSERT INTO Usuario (nick,password,batganadas,batjugadas,experiencia) VALUES ('saretakemon','sara','0','0','0') 
+2017-01-20 10:29:12 ERROR DAO:87 - Field 'nombre' doesn't have a default value
+2017-01-20 10:55:09 INFO  DAO:55 - idUsuario
+2017-01-20 10:55:09 INFO  DAO:55 - nombre
+2017-01-20 10:55:09 INFO  DAO:55 - nick
+2017-01-20 10:55:09 INFO  DAO:55 - password
+2017-01-20 10:55:09 INFO  DAO:55 - email
+2017-01-20 10:55:09 INFO  DAO:55 - batganadas
+2017-01-20 10:55:09 INFO  DAO:55 - batjugadas
+2017-01-20 10:55:09 INFO  DAO:55 - experiencia
+2017-01-20 10:55:09 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 10:55:09 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 10:56:26 INFO  DAO:55 - idUsuario
+2017-01-20 10:56:37 INFO  DAO:55 - nombre
+2017-01-20 10:56:42 INFO  DAO:55 - nick
+2017-01-20 10:56:45 INFO  DAO:55 - password
+2017-01-20 10:56:49 INFO  DAO:55 - email
+2017-01-20 10:57:08 INFO  DAO:55 - batganadas
+2017-01-20 10:57:13 INFO  DAO:55 - batjugadas
+2017-01-20 10:57:16 INFO  DAO:55 - experiencia
+2017-01-20 10:58:08 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 10:58:10 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:01:46 INFO  DAO:55 - idUsuario
+2017-01-20 11:01:46 INFO  DAO:55 - nombre
+2017-01-20 11:01:46 INFO  DAO:55 - nick
+2017-01-20 11:01:46 INFO  DAO:55 - password
+2017-01-20 11:01:46 INFO  DAO:55 - email
+2017-01-20 11:01:46 INFO  DAO:55 - batganadas
+2017-01-20 11:01:46 INFO  DAO:55 - batjugadas
+2017-01-20 11:01:46 INFO  DAO:55 - experiencia
+2017-01-20 11:01:46 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:01:46 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:02:43 INFO  DAO:55 - idUsuario
+2017-01-20 11:02:43 INFO  DAO:55 - nombre
+2017-01-20 11:02:43 INFO  DAO:55 - nick
+2017-01-20 11:02:43 INFO  DAO:55 - password
+2017-01-20 11:02:43 INFO  DAO:55 - email
+2017-01-20 11:02:43 INFO  DAO:55 - batganadas
+2017-01-20 11:02:43 INFO  DAO:55 - batjugadas
+2017-01-20 11:02:43 INFO  DAO:55 - experiencia
+2017-01-20 11:02:43 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:02:43 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:07:51 INFO  DAO:55 - idUsuario
+2017-01-20 11:07:54 INFO  DAO:55 - nombre
+2017-01-20 11:07:55 INFO  DAO:55 - nick
+2017-01-20 11:07:57 INFO  DAO:55 - password
+2017-01-20 11:07:57 INFO  DAO:55 - email
+2017-01-20 11:07:57 INFO  DAO:55 - batganadas
+2017-01-20 11:07:57 INFO  DAO:55 - batjugadas
+2017-01-20 11:07:57 INFO  DAO:55 - experiencia
+2017-01-20 11:07:57 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:07:57 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:09:33 INFO  DAO:55 - idUsuario
+2017-01-20 11:13:25 INFO  DAO:55 - nombre
+2017-01-20 11:13:27 INFO  DAO:55 - nick
+2017-01-20 11:13:29 INFO  DAO:55 - password
+2017-01-20 11:13:30 INFO  DAO:55 - email
+2017-01-20 11:13:32 INFO  DAO:55 - batganadas
+2017-01-20 11:13:33 INFO  DAO:55 - batjugadas
+2017-01-20 11:13:38 INFO  DAO:55 - experiencia
+2017-01-20 11:15:07 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:16:40 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:22:34 INFO  DAO:55 - idUsuario
+2017-01-20 11:22:34 INFO  DAO:55 - nombre
+2017-01-20 11:22:34 INFO  DAO:55 - nick
+2017-01-20 11:22:34 INFO  DAO:55 - password
+2017-01-20 11:22:34 INFO  DAO:55 - email
+2017-01-20 11:22:34 INFO  DAO:55 - batganadas
+2017-01-20 11:22:34 INFO  DAO:55 - batjugadas
+2017-01-20 11:22:34 INFO  DAO:55 - experiencia
+2017-01-20 11:22:34 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:22:34 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:23:56 INFO  DAO:55 - idUsuario
+2017-01-20 11:23:56 INFO  DAO:55 - nombre
+2017-01-20 11:23:56 INFO  DAO:55 - nick
+2017-01-20 11:23:56 INFO  DAO:55 - password
+2017-01-20 11:23:56 INFO  DAO:55 - email
+2017-01-20 11:23:56 INFO  DAO:55 - batganadas
+2017-01-20 11:23:56 INFO  DAO:55 - batjugadas
+2017-01-20 11:23:56 INFO  DAO:55 - experiencia
+2017-01-20 11:23:56 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:23:56 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:24:25 INFO  DAO:55 - idUsuario
+2017-01-20 11:24:25 INFO  DAO:55 - nombre
+2017-01-20 11:24:25 INFO  DAO:55 - nick
+2017-01-20 11:24:25 INFO  DAO:55 - password
+2017-01-20 11:24:25 INFO  DAO:55 - email
+2017-01-20 11:24:25 INFO  DAO:55 - batganadas
+2017-01-20 11:24:25 INFO  DAO:55 - batjugadas
+2017-01-20 11:24:25 INFO  DAO:55 - experiencia
+2017-01-20 11:24:25 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:24:26 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:26:27 INFO  DAO:55 - idUsuario
+2017-01-20 11:26:27 INFO  DAO:55 - nombre
+2017-01-20 11:26:27 INFO  DAO:55 - nick
+2017-01-20 11:26:27 INFO  DAO:55 - password
+2017-01-20 11:26:27 INFO  DAO:55 - email
+2017-01-20 11:26:27 INFO  DAO:55 - batganadas
+2017-01-20 11:26:27 INFO  DAO:55 - batjugadas
+2017-01-20 11:26:27 INFO  DAO:55 - experiencia
+2017-01-20 11:26:27 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:26:27 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:29:42 INFO  DAO:55 - idUsuario
+2017-01-20 11:29:42 INFO  DAO:55 - nombre
+2017-01-20 11:29:42 INFO  DAO:55 - nick
+2017-01-20 11:29:42 INFO  DAO:55 - password
+2017-01-20 11:29:42 INFO  DAO:55 - email
+2017-01-20 11:29:42 INFO  DAO:55 - batganadas
+2017-01-20 11:29:42 INFO  DAO:55 - batjugadas
+2017-01-20 11:29:42 INFO  DAO:55 - experiencia
+2017-01-20 11:29:42 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:29:42 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:32:26 INFO  DAO:55 - idUsuario
+2017-01-20 11:32:27 INFO  DAO:55 - nombre
+2017-01-20 11:32:28 INFO  DAO:55 - nick
+2017-01-20 11:32:29 INFO  DAO:55 - password
+2017-01-20 11:32:30 INFO  DAO:55 - email
+2017-01-20 11:32:31 INFO  DAO:55 - batganadas
+2017-01-20 11:32:32 INFO  DAO:55 - batjugadas
+2017-01-20 11:32:33 INFO  DAO:55 - experiencia
+2017-01-20 11:32:47 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:32:48 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:34:21 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-20 11:34:59 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0','0','0') 
+2017-01-20 11:34:59 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@ec7f27e: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0','0','0') 
+2017-01-20 11:35:21 INFO  DAO:55 - idUsuario
+2017-01-20 11:35:21 INFO  DAO:55 - nombre
+2017-01-20 11:35:21 INFO  DAO:55 - nick
+2017-01-20 11:35:21 INFO  DAO:55 - password
+2017-01-20 11:35:21 INFO  DAO:55 - email
+2017-01-20 11:35:21 INFO  DAO:55 - batganadas
+2017-01-20 11:35:21 INFO  DAO:55 - batjugadas
+2017-01-20 11:35:21 INFO  DAO:55 - experiencia
+2017-01-20 11:35:21 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:35:22 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-20 11:35:22 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0','0','0') 
+2017-01-20 11:35:22 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@2385aca2: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','sara','sare','sara','sara@hotmail.com','0','0','0') 
+2017-01-20 11:35:22 ERROR DAO:87 - Duplicate entry 'sara@hotmail.com' for key 'email_UNIQUE'
+2017-01-20 11:39:27 INFO  DAO:55 - idUsuario
+2017-01-20 11:39:27 INFO  DAO:55 - nombre
+2017-01-20 11:39:27 INFO  DAO:55 - nick
+2017-01-20 11:39:27 INFO  DAO:55 - password
+2017-01-20 11:39:27 INFO  DAO:55 - email
+2017-01-20 11:39:27 INFO  DAO:55 - batganadas
+2017-01-20 11:39:27 INFO  DAO:55 - batjugadas
+2017-01-20 11:39:27 INFO  DAO:55 - experiencia
+2017-01-20 11:39:27 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 11:39:28 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-20 11:39:28 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0','0','0') 
+2017-01-20 11:39:28 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@da3738b: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0','0','0') 
+2017-01-20 12:07:16 INFO  DAO:55 - idUsuario
+2017-01-20 12:07:16 INFO  DAO:55 - nombre
+2017-01-20 12:07:16 INFO  DAO:55 - nick
+2017-01-20 12:07:16 INFO  DAO:55 - password
+2017-01-20 12:07:16 INFO  DAO:55 - email
+2017-01-20 12:07:16 INFO  DAO:55 - batganadas
+2017-01-20 12:07:16 INFO  DAO:55 - batjugadas
+2017-01-20 12:07:16 INFO  DAO:55 - experiencia
+2017-01-20 12:07:16 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 12:07:16 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-20 12:07:16 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0','0','0') 
+2017-01-20 12:07:16 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@3cdcaf77: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Oriol','uri','oriol','uri@hotmail.com','0','0','0') 
+2017-01-20 12:07:16 ERROR DAO:87 - Duplicate entry 'uri@hotmail.com' for key 'email_UNIQUE'
+2017-01-20 12:07:58 INFO  DAO:55 - idUsuario
+2017-01-20 12:07:58 INFO  DAO:55 - nombre
+2017-01-20 12:07:58 INFO  DAO:55 - nick
+2017-01-20 12:07:58 INFO  DAO:55 - password
+2017-01-20 12:07:58 INFO  DAO:55 - email
+2017-01-20 12:07:58 INFO  DAO:55 - batganadas
+2017-01-20 12:07:58 INFO  DAO:55 - batjugadas
+2017-01-20 12:07:58 INFO  DAO:55 - experiencia
+2017-01-20 12:07:58 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 12:07:58 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato','gaby',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato','gaby','gaby@hotmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato','gaby','gaby@hotmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato','gaby','gaby@hotmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-20 12:07:58 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato','gaby','gaby@hotmail.com','0','0','0') 
+2017-01-20 12:07:58 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@3fe0ae25: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Gaby','gato','gaby','gaby@hotmail.com','0','0','0') 
+2017-01-20 12:09:29 INFO  DAO:55 - idUsuario
+2017-01-20 12:09:29 INFO  DAO:55 - nombre
+2017-01-20 12:09:29 INFO  DAO:55 - nick
+2017-01-20 12:09:29 INFO  DAO:55 - password
+2017-01-20 12:09:29 INFO  DAO:55 - email
+2017-01-20 12:09:29 INFO  DAO:55 - batganadas
+2017-01-20 12:09:29 INFO  DAO:55 - batjugadas
+2017-01-20 12:09:29 INFO  DAO:55 - experiencia
+2017-01-20 12:09:29 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-20 12:09:29 INFO  DAO:37 - Conexion creada 
+
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon','carlos',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon','carlos','carlos@hotmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon','carlos','carlos@hotmail.com','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon','carlos','carlos@hotmail.com','0','0',** NOT SPECIFIED **) 
+2017-01-20 12:09:29 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon','carlos','carlos@hotmail.com','0','0','0') 
+2017-01-20 12:09:29 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@21575ad3: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','Carlos','caEtakemon','carlos','carlos@hotmail.com','0','0','0') 
+2017-01-21 17:42:51 INFO  DAO:55 - idUsuario
+2017-01-21 17:42:51 INFO  DAO:55 - nombre
+2017-01-21 17:42:51 INFO  DAO:55 - nick
+2017-01-21 17:42:51 INFO  DAO:55 - password
+2017-01-21 17:42:51 INFO  DAO:55 - email
+2017-01-21 17:42:51 INFO  DAO:55 - batganadas
+2017-01-21 17:42:51 INFO  DAO:55 - batjugadas
+2017-01-21 17:42:51 INFO  DAO:55 - experiencia
+2017-01-21 17:42:51 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-21 17:42:51 INFO  DAO:37 - Conexion creada 
+
+2017-01-21 17:44:23 INFO  DAO:55 - idUsuario
+2017-01-21 17:44:23 INFO  DAO:55 - nombre
+2017-01-21 17:44:23 INFO  DAO:55 - nick
+2017-01-21 17:44:23 INFO  DAO:55 - password
+2017-01-21 17:44:23 INFO  DAO:55 - email
+2017-01-21 17:44:23 INFO  DAO:55 - batganadas
+2017-01-21 17:44:23 INFO  DAO:55 - batjugadas
+2017-01-21 17:44:23 INFO  DAO:55 - experiencia
+2017-01-21 17:44:23 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-21 17:44:23 INFO  DAO:37 - Conexion creada 
+
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick','email',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick','email','password',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick','email','password','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick','email','password','0','0',** NOT SPECIFIED **) 
+2017-01-21 17:44:23 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick','email','password','0','0','0') 
+2017-01-21 17:44:23 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@51b09d3a: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','nombre','nick','email','password','0','0','0') 
+2017-01-21 17:55:52 INFO  DAO:55 - idUsuario
+2017-01-21 17:55:52 INFO  DAO:55 - nombre
+2017-01-21 17:55:52 INFO  DAO:55 - nick
+2017-01-21 17:55:52 INFO  DAO:55 - password
+2017-01-21 17:55:52 INFO  DAO:55 - email
+2017-01-21 17:55:52 INFO  DAO:55 - batganadas
+2017-01-21 17:55:52 INFO  DAO:55 - batjugadas
+2017-01-21 17:55:52 INFO  DAO:55 - experiencia
+2017-01-21 17:55:52 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-21 17:55:52 INFO  DAO:37 - Conexion creada 
+
+2017-01-21 17:58:07 INFO  DAO:55 - idUsuario
+2017-01-21 17:58:07 INFO  DAO:55 - nombre
+2017-01-21 17:58:07 INFO  DAO:55 - nick
+2017-01-21 17:58:07 INFO  DAO:55 - password
+2017-01-21 17:58:07 INFO  DAO:55 - email
+2017-01-21 17:58:07 INFO  DAO:55 - batganadas
+2017-01-21 17:58:07 INFO  DAO:55 - batjugadas
+2017-01-21 17:58:07 INFO  DAO:55 - experiencia
+2017-01-21 17:58:07 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-21 17:59:58 INFO  DAO:55 - idUsuario
+2017-01-21 17:59:58 INFO  DAO:55 - nombre
+2017-01-21 17:59:58 INFO  DAO:55 - nick
+2017-01-21 17:59:58 INFO  DAO:55 - password
+2017-01-21 17:59:58 INFO  DAO:55 - email
+2017-01-21 17:59:58 INFO  DAO:55 - batganadas
+2017-01-21 17:59:58 INFO  DAO:55 - batjugadas
+2017-01-21 17:59:58 INFO  DAO:55 - experiencia
+2017-01-21 17:59:58 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-21 18:00:13 INFO  DAO:55 - idUsuario
+2017-01-21 18:00:13 INFO  DAO:55 - nombre
+2017-01-21 18:00:13 INFO  DAO:55 - nick
+2017-01-21 18:00:13 INFO  DAO:55 - password
+2017-01-21 18:00:13 INFO  DAO:55 - email
+2017-01-21 18:00:13 INFO  DAO:55 - batganadas
+2017-01-21 18:00:13 INFO  DAO:55 - batjugadas
+2017-01-21 18:00:13 INFO  DAO:55 - experiencia
+2017-01-21 18:00:13 INFO  DAO:78 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-21 18:00:13 INFO  DAO:37 - Conexion creada 
+
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon','pepe@gmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon','pepe@gmail.com','pepe',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon','pepe@gmail.com','pepe','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon','pepe@gmail.com','pepe','0','0',** NOT SPECIFIED **) 
+2017-01-21 18:00:13 INFO  DAO:99 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon','pepe@gmail.com','pepe','0','0','0') 
+2017-01-21 18:00:13 INFO  DAO:84 - com.mysql.cj.jdbc.PreparedStatement@4b847f38: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','pepito','pepetakemon','pepe@gmail.com','pepe','0','0','0') 
+2017-01-22 21:47:56 INFO  DAO:38 - Conexion creada 
+
+2017-01-22 21:47:56 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-22 22:05:28 INFO  DAO:38 - Conexion creada 
+
+2017-01-22 22:05:28 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-22 22:06:13 INFO  DAO:38 - Conexion creada 
+
+2017-01-22 22:06:13 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 02:33:58 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 02:33:58 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 02:44:50 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 02:44:50 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 02:58:20 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 02:58:20 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:01:32 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:01:32 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:03:11 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:03:11 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:06:56 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:06:56 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:08:05 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:08:05 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:08:31 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:08:31 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:08:52 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:08:52 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud from Lugares 
+2017-01-23 03:22:58 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:22:58 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 03:23:38 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:23:38 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 03:26:05 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:26:05 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 03:30:39 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:30:39 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 03:37:14 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:37:14 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 03:51:34 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:51:34 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 03:54:25 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 03:54:25 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 04:05:34 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 04:05:34 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 04:09:34 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 04:09:34 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 04:12:21 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 04:12:21 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 04:14:35 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 04:14:35 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 04:19:42 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 04:19:42 INFO  DAO:233 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 09:44:07 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 09:44:07 INFO  DAO:195 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 5
+2017-01-23 09:44:07 ERROR DAO:221 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-23 09:47:27 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 09:47:27 INFO  DAO:195 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 5
+2017-01-23 09:54:39 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 09:54:39 INFO  DAO:196 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 5
+2017-01-23 10:02:08 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:02:08 INFO  DAO:196 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 5
+2017-01-23 10:02:08 ERROR DAO:224 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-23 10:06:21 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:06:21 INFO  DAO:196 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 5
+2017-01-23 10:06:21 ERROR DAO:224 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-23 10:07:50 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:07:50 INFO  DAO:196 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 5
+2017-01-23 10:07:50 ERROR DAO:224 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-23 10:07:52 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:07:52 INFO  DAO:196 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 5
+2017-01-23 10:07:52 ERROR DAO:224 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-23 10:07:53 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:07:53 INFO  DAO:196 - SELECT query: SELECT * FROM JSONUser WHERE idUsuario = 5
+2017-01-23 10:07:53 ERROR DAO:224 - Select: Table 'juego2.jsonuser' doesn't exist
+2017-01-23 10:12:11 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:12:11 INFO  DAO:196 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 5
+2017-01-23 10:13:49 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:13:49 INFO  DAO:196 - SELECT query: SELECT * FROM Usuario WHERE idUsuario = 5
+2017-01-23 10:28:09 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:28:09 INFO  DAO:196 - SELECT query: SELECT idUsuario,nombre,nick,email,batganas,batjugadas,experiencia FROM UsuarioWHERE nick = '5'
+2017-01-23 10:28:09 ERROR DAO:224 - Select: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '5'' at line 1
+2017-01-23 10:30:09 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:30:09 INFO  DAO:196 - SELECT query: SELECT idUsuario,nombre,nick,email,batganas,batjugadas,experiencia FROM UsuarioWHERE nick = '5
+2017-01-23 10:30:09 ERROR DAO:224 - Select: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '5' at line 1
+2017-01-23 10:42:05 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:42:05 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 10:52:46 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:52:46 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 10:53:44 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 10:53:44 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 11:09:39 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:09:39 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 11:15:27 INFO  DAO:56 - idUsuario
+2017-01-23 11:15:27 INFO  DAO:56 - nombre
+2017-01-23 11:15:27 INFO  DAO:56 - nick
+2017-01-23 11:15:27 INFO  DAO:56 - password
+2017-01-23 11:15:27 INFO  DAO:56 - email
+2017-01-23 11:15:27 INFO  DAO:56 - batganadas
+2017-01-23 11:15:27 INFO  DAO:56 - batjugadas
+2017-01-23 11:15:27 INFO  DAO:56 - experiencia
+2017-01-23 11:15:27 INFO  DAO:79 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-23 11:15:27 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','pepe',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','pepe','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','pepe','0','0',** NOT SPECIFIED **) 
+2017-01-23 11:15:27 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','pepe','0','0','0') 
+2017-01-23 11:15:27 INFO  DAO:85 - com.mysql.cj.jdbc.PreparedStatement@3fd63427: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','pepe','0','0','0') 
+2017-01-23 11:15:27 ERROR DAO:88 - Duplicate entry 'pepe' for key 'email_UNIQUE'
+2017-01-23 11:16:39 INFO  DAO:56 - idUsuario
+2017-01-23 11:16:39 INFO  DAO:56 - nombre
+2017-01-23 11:16:39 INFO  DAO:56 - nick
+2017-01-23 11:16:39 INFO  DAO:56 - password
+2017-01-23 11:16:39 INFO  DAO:56 - email
+2017-01-23 11:16:39 INFO  DAO:56 - batganadas
+2017-01-23 11:16:39 INFO  DAO:56 - batjugadas
+2017-01-23 11:16:39 INFO  DAO:56 - experiencia
+2017-01-23 11:16:39 INFO  DAO:79 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-23 11:16:39 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','contraseña',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','contraseña','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','contraseña','0','0',** NOT SPECIFIED **) 
+2017-01-23 11:16:39 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','contraseña','0','0','0') 
+2017-01-23 11:16:39 INFO  DAO:85 - com.mysql.cj.jdbc.PreparedStatement@c13b704: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','User','nick','user@gmail.com','contraseña','0','0','0') 
+2017-01-23 11:18:59 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:18:59 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 11:20:08 INFO  DAO:56 - idUsuario
+2017-01-23 11:20:08 INFO  DAO:56 - nombre
+2017-01-23 11:20:08 INFO  DAO:56 - nick
+2017-01-23 11:20:08 INFO  DAO:56 - password
+2017-01-23 11:20:08 INFO  DAO:56 - email
+2017-01-23 11:20:08 INFO  DAO:56 - batganadas
+2017-01-23 11:20:08 INFO  DAO:56 - batjugadas
+2017-01-23 11:20:08 INFO  DAO:56 - experiencia
+2017-01-23 11:20:08 INFO  DAO:79 - QUERY: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES (?,?,?,?,?,?,?,?) 
+
+2017-01-23 11:20:08 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba','prueba@gmail.com',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba','prueba@gmail.com','nickPrueba',** NOT SPECIFIED **,** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba','prueba@gmail.com','nickPrueba','0',** NOT SPECIFIED **,** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba','prueba@gmail.com','nickPrueba','0','0',** NOT SPECIFIED **) 
+2017-01-23 11:20:08 INFO  DAO:100 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba','prueba@gmail.com','nickPrueba','0','0','0') 
+2017-01-23 11:20:08 INFO  DAO:85 - com.mysql.cj.jdbc.PreparedStatement@2761a91d: INSERT INTO Usuario (idUsuario,nombre,nick,password,email,batganadas,batjugadas,experiencia) VALUES ('0','UserPrueba','NickPrueba','prueba@gmail.com','nickPrueba','0','0','0') 
+2017-01-23 11:20:56 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:20:56 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 11:21:21 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 11:21:21 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:02:38 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:02:38 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:02:49 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:02:49 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:03:34 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:03:34 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:04:17 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:04:17 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:07:26 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:07:26 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:36:44 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:36:44 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 
+2017-01-23 14:37:49 INFO  DAO:38 - Conexion creada 
+
+2017-01-23 14:37:49 INFO  DAO:236 - SELECT query: SELECT idLugares,nombre,latitud,longitud FROM Lugares 

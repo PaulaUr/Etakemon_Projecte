@@ -7,8 +7,11 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
+
+import static org.glassfish.hk2.utilities.Stub.Type.VALUES;
 
 /**
  * Created by ivanm on 15/12/2016.
@@ -102,6 +105,8 @@ public abstract class DAO {
         }
     }
 
+
+
     //función que coge los valores de las variables
     private String getValors(Field f) {
         String res = null;
@@ -181,14 +186,15 @@ public abstract class DAO {
         }
     }
 
-    public List<Integer> select(int pk) {
+    public List<String> select(String pk) {
 
         java.sql.Connection con = getConnection();
+        List<String> milista = new ArrayList<>();
 
         StringBuffer consulta = new StringBuffer();
-        consulta.append("SELECT * FROM ").append(this.getClass().getSimpleName()).append(" WHERE idUsuario = " + pk);
+        consulta.append("SELECT idUsuario,nombre,nick,email,batganas,batjugadas,experiencia FROM Usuario").append("WHERE nick = '" + pk);
         logger.info("SELECT query: "+consulta);
-
+        Usuario user = new Usuario();
         Statement stmt = null;
 
         try {
@@ -200,9 +206,11 @@ public abstract class DAO {
                 try {
                     if (rsmd.getColumnTypeName(i).equals("INT")) {//para la columna i,si es del tipo int
                         System.out.println(rsmd.getColumnLabel(i) + " = " + rs.getInt(i)); //obtengo la etiqueta de la columna y el entero (id=1...)
+                        milista.add(String.valueOf(rs.getInt(i)));
                     }
                     if (rsmd.getColumnTypeName(i).equals("VARCHAR")) { //si es del tipovarchar, obtengo lo que es tambien
                         System.out.println(rsmd.getColumnLabel(i) + " = " + rs.getString(i));
+                        milista.add(rs.getString(i));
                     }
                     if (i == rsmd.getColumnCount()) { //cuando i=numero de columnas, voy al siguiente y salgo del bucle,reiniciando i
                         rs.next();
@@ -215,12 +223,64 @@ public abstract class DAO {
         } catch (SQLException e) {
             logger.error("Select: "+e.getMessage());
         }
-        return null;
+        return milista;
+    }
+
+    public List<String> selectLocalizacion(){
+
+        List<String> lista = new ArrayList<String>();
+        java.sql.Connection con = getConnection();
+
+        StringBuffer consulta = new StringBuffer();
+        consulta.append("SELECT idLugares,nombre,latitud,longitud FROM Lugares ");
+        logger.info("SELECT query: "+consulta);
+        Statement stmt = null;
+        Lugares lugares = new Lugares();
+        try {
+            stmt = con.createStatement();
+            ResultSet rs = stmt.executeQuery(consulta.toString()); //Y RECOJO LOS DATOS EN rs
+            ResultSetMetaData rsmd = rs.getMetaData();
+            rs.next();
+            for (int i = 1; i < rsmd.getColumnCount() + 1; i++) { //lo ejecuto el numero de veces de columnas que tenga en la tabla
+                try {
+                    if (rsmd.getColumnTypeName(i).equals("INT")) {//para la columna i,si es del tipo int
+                      //if(rsmd.getColumnLabel(i).equals("idlugares")){
+                        System.out.println(rsmd.getColumnLabel(i) + " = " + rs.getInt(i)); //obtengo la etiqueta de la columna y el entero (id=1...)
+                    //    lugares.setIdlugares(rs.getString(i));
+                        lista.add(String.valueOf(rs.getInt(i)));
+                        int value = rs.getInt(i);
+                    }
+                    if (rsmd.getColumnTypeName(i).equals("VARCHAR")) { //si es del tipovarchar, obtengo lo que es tambien
+                   // if(rsmd.getColumnLabel(i).equals("nombre")){
+                        System.out.println(rsmd.getColumnLabel(i) + " = " + rs.getString(i));
+                        String value = rs.getString(i);
+                        lista.add(rs.getString(i));
+                    }
+                    if(rsmd.getColumnTypeName(i).equals("DOUBLE")){
+                     System.out.println(rsmd.getColumnLabel(i) + " = " + rs.getString(i));
+                        double value = rs.getDouble(i);
+                        lista.add(String.valueOf(rs.getDouble(i)));
+                    }
+
+                    if (i == rsmd.getColumnCount()) { //cuando i=numero de columnas, voy al siguiente y salgo del bucle,reiniciando i
+                        rs.next();
+                        i = 0;
+                    }
+                } catch (Exception e) {
+                    // logger.error("SELECT: " +e);
+                }
+            }
+        } catch (SQLException e) {
+            logger.error("Select: "+e.getMessage());
+        }
+
+
+        return lista;
     }
 
 
     /*SELECCIONA DATOS USUARIO Y LOS GUARDAS */
-    public Usuario select2(int pk) {
+ /*   public Usuario select2(int pk) {
 
         java.sql.Connection con = getConnection();
         Usuario u = new Usuario();
@@ -273,7 +333,7 @@ public abstract class DAO {
             logger.error("Select: "+e.getMessage());
         }
         return u;
-    }
+    }*/
 
 
     /* SELECT PARA DATOS OLVIDADOS*/

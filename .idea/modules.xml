@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Etakemon_Projecte.iml" filepath="$PROJECT_DIR$/Etakemon_Projecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Etakemon_Projecte.iml" filepath="$PROJECT_DIR$/.idea/Etakemon_Projecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/dsa.projecte.iml" filepath="$PROJECT_DIR$/service/dsa.projecte.iml" />
     </modules>
   </component>
 </project>

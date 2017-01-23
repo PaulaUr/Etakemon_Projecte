@@ -19,14 +19,18 @@ public class Usuario extends DAO{
         super();
     }
 
+
     public Usuario(String nick, String password) {
         this.nick = nick;
         this.password = password;
     }
 
-    public Usuario(String nombre, String nick, String email, int batganadas, int batjugadas, int experiencia) {
+
+    public Usuario(Integer idUsuario, String nombre, String nick, String password, String email, int batganadas, int batjugadas, int experiencia) {
+        this.idUsuario = idUsuario;
         this.nombre = nombre;
         this.nick = nick;
+        this.password = password;
         this.email = email;
         this.batganadas = batganadas;
         this.batjugadas = batjugadas;

@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Etakemon_Projecte" />
+        <module name="dsa.projecte" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Etakemon_Projecte" target="1.7" />
+      <module name="dsa.projecte" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

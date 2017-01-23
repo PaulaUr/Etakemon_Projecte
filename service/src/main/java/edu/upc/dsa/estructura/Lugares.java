@@ -5,27 +5,28 @@ package edu.upc.dsa.estructura;
  */
 public class Lugares extends DAO {
 
-    public int idlugares;
+    public String idlugares;
     public String nombre;
-    public int latitud;
-    public int longitud;
+    public String latitud;
+    public String longitud;
 
-    public Lugares(){
+    public Lugares() {
         super();
     }
 
-    public Lugares(int idlugares, String nombre, int latitud, int longitud) {
+
+    public Lugares(String idlugares, String nombre, String latitud, String longitud) {
         this.idlugares = idlugares;
         this.nombre = nombre;
         this.latitud = latitud;
         this.longitud = longitud;
     }
 
-    public int getIdlugares() {
+    public String getIdlugares() {
         return idlugares;
     }
 
-    public void setIdlugares(int idlugares) {
+    public void setIdlugares(String idlugares) {
         this.idlugares = idlugares;
     }
 
@@ -37,19 +38,19 @@ public class Lugares extends DAO {
         this.nombre = nombre;
     }
 
-    public int getLatitud() {
+    public String getLatitud() {
         return latitud;
     }
 
-    public void setLatitud(int latitud) {
+    public void setLatitud(String latitud) {
         this.latitud = latitud;
     }
 
-    public int getLongitud() {
+    public String getLongitud() {
         return longitud;
     }
 
-    public void setLongitud(int longitud) {
+    public void setLongitud(String longitud) {
         this.longitud = longitud;
     }
 }
